@@ -18,4 +18,10 @@ $ denon run server.ts
 implementing....
 ```
 
-<h1>Thanks Krub :3 (Sirawich Vounvhuy)</h1>
+## Test
+
+```
+easy test set but can't do with jest T^T
+```
+
+<h1>Thanks for watch my repo Kub :3 (Sirawich Vounvhuy)</h1>
