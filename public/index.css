@@ -1,0 +1,14 @@
+.center {
+    display: flex;
+    flex-flow: column;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.img {
+    width: 200px;
+
+}
